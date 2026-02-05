@@ -69,4 +69,4 @@ This will output the data tables for Efficiency, Net Work, and Combined Cycle op
 
 ---
 
-*For detailed thermodynamic equations and derivations, please refer to the [Project Report](docs/CombinedCycleReport.pdf).*
+*For detailed thermodynamic equations and derivations, please refer to the [Project Report](https://github.com/EmreSakarya/combined-cycle-analysis/blob/main/docs/combined_cycle_analysis.pdf).*
